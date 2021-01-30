@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fe3O4&#39;s Blog</title>
-    <link>http://Fe3O4-Git.github.io/</link>
-    <description>Recent content on Fe3O4&#39;s Blog</description>
+    <title>Thinkings on Fe3O4&#39;s Blog</title>
+    <link>http://Fe3O4-Git.github.io/thinkings/</link>
+    <description>Recent content in Thinkings on Fe3O4&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 14:03:07 +0800</lastBuildDate><atom:link href="http://Fe3O4-Git.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jan 2021 14:03:07 +0800</lastBuildDate><atom:link href="http://Fe3O4-Git.github.io/thinkings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Special Days</title>
       <link>http://Fe3O4-Git.github.io/thinkings/no-special-days/</link>
@@ -16,21 +16,6 @@
       <description>Saying goodbye to festivals, live on you own and enjoy a happier life.
  Special days, usually known as festivals, are very common in our life and we&amp;rsquo;ve been involved in them nearly all the time. However, I think it&amp;rsquo;s time to say goodbye to them.
 It was just the last day of my term-ending exam that I heard something unacceptable. Hair cutting isn&amp;rsquo;t allowed in Lunar January due local customs.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://Fe3O4-Git.github.io/posts/about-me/</link>
-      <pubDate>Sat, 30 Jan 2021 07:01:52 +0800</pubDate>
-      
-      <guid>http://Fe3O4-Git.github.io/posts/about-me/</guid>
-      <description>About me:
- a senior high student. programming lover, now learning C. trying to apply the KISS principle to daily life. working on a new human-friendly and logical language.  This site offers:
-  tips in programming (for beginners).
-  journals without sensitive information.
-  deep thinkings on world, life and the society.
-  etc.
-  </description>
     </item>
     
   </channel>
