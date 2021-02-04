@@ -8,18 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jan 2021 07:01:52 +0800</lastBuildDate><atom:link href="http://Fe3O4-Git.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>http://Fe3O4-Git.github.io/posts/about-me/</link>
+      <title>Introduction</title>
+      <link>http://Fe3O4-Git.github.io/posts/introduction/</link>
       <pubDate>Sat, 30 Jan 2021 07:01:52 +0800</pubDate>
       
-      <guid>http://Fe3O4-Git.github.io/posts/about-me/</guid>
+      <guid>http://Fe3O4-Git.github.io/posts/introduction/</guid>
       <description>About me:
- a senior high student. programming lover, now learning C. trying to apply the KISS principle to daily life. working on a new human-friendly and logical language.  This site offers:
-  tips in programming (for beginners).
-  journals without sensitive information.
-  deep thinkings on world, life and the society.
-  etc.
-  </description>
+  Arch Linux user
+  a senior high student.
+  programming lover, now learning C.
+  trying to apply the KISS principle to daily life.
+  working on a new human-friendly and logical language.
+  may be single forever, often consider computers as girlfriends.
+  This site offers:
+  tricks about GNU/Linux, Android
+  tips in programming (for beginners).</description>
     </item>
     
   </channel>
