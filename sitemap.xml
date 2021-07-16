@@ -1,38 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://Fe3O4-Git.github.io/</loc>
+    <loc>http://fe3o4.top/</loc>
     <lastmod>2021-01-30T14:03:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://Fe3O4-Git.github.io/thinkings/no-special-days/</loc>
+  </url><url>
+    <loc>http://fe3o4.top/thinkings/no-special-days/</loc>
     <lastmod>2021-01-30T14:03:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://Fe3O4-Git.github.io/thinkings/</loc>
+  </url><url>
+    <loc>http://fe3o4.top/thinkings/</loc>
     <lastmod>2021-01-30T14:03:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://Fe3O4-Git.github.io/posts/introduction/</loc>
+  </url><url>
+    <loc>http://fe3o4.top/posts/introduction/</loc>
     <lastmod>2021-01-30T07:01:52+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://Fe3O4-Git.github.io/posts/</loc>
+  </url><url>
+    <loc>http://fe3o4.top/posts/</loc>
     <lastmod>2021-01-30T07:01:52+08:00</lastmod>
+  </url><url>
+    <loc>http://fe3o4.top/categories/</loc>
+  </url><url>
+    <loc>http://fe3o4.top/search/</loc>
+  </url><url>
+    <loc>http://fe3o4.top/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://Fe3O4-Git.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://Fe3O4-Git.github.io/tags/</loc>
-  </url>
-  
 </urlset>

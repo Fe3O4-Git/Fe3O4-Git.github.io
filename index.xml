@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fe3O4&#39;s Blog</title>
-    <link>http://Fe3O4-Git.github.io/</link>
+    <link>http://fe3o4.top/</link>
     <description>Recent content on Fe3O4&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 14:03:07 +0800</lastBuildDate><atom:link href="http://Fe3O4-Git.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jan 2021 14:03:07 +0800</lastBuildDate><atom:link href="http://fe3o4.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Special Days</title>
-      <link>http://Fe3O4-Git.github.io/thinkings/no-special-days/</link>
+      <link>http://fe3o4.top/thinkings/no-special-days/</link>
       <pubDate>Sat, 30 Jan 2021 14:03:07 +0800</pubDate>
       
-      <guid>http://Fe3O4-Git.github.io/thinkings/no-special-days/</guid>
+      <guid>http://fe3o4.top/thinkings/no-special-days/</guid>
       <description>Saying goodbye to festivals, live on you own and enjoy a happier life.
  Special days, usually known as festivals, are very common in our life and we&amp;rsquo;ve been involved in them nearly all the time. However, I think it&amp;rsquo;s time to say goodbye to them.
 It was just the last day of my term-ending exam that I heard something unacceptable. Hair cutting isn&amp;rsquo;t allowed in Lunar January due local customs.</description>
@@ -20,10 +20,10 @@ It was just the last day of my term-ending exam that I heard something unaccepta
     
     <item>
       <title>Introduction</title>
-      <link>http://Fe3O4-Git.github.io/posts/introduction/</link>
+      <link>http://fe3o4.top/posts/introduction/</link>
       <pubDate>Sat, 30 Jan 2021 07:01:52 +0800</pubDate>
       
-      <guid>http://Fe3O4-Git.github.io/posts/introduction/</guid>
+      <guid>http://fe3o4.top/posts/introduction/</guid>
       <description>About me:
   Arch Linux user
   a senior high student.
@@ -34,6 +34,15 @@ It was just the last day of my term-ending exam that I heard something unaccepta
   This site offers:
   tricks about GNU/Linux, Android
   tips in programming (for beginners).</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://fe3o4.top/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fe3o4.top/search/</guid>
+      <description>search</description>
     </item>
     
   </channel>
